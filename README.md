@@ -19,6 +19,9 @@ Back To Tech Study Topics
 - [ ] Map / Reduce
 - [ ] JS functional programming
 - [ ] Redux
+- [ ] [SWR](https://swr.vercel.app/)
+- [ ] [React Query](https://react-query.tanstack.com/overview)
+- [ ] [React Context](https://reactjs.org/docs/context.html)
 - [ ] UI library ( bootstrap )
 - [ ] xhr / axios / fetch / ajax
 - [ ] JQuery
