@@ -22,6 +22,7 @@ Back To Tech Study Topics
 - [ ] [SWR](https://swr.vercel.app/)
 - [ ] [React Query](https://react-query.tanstack.com/overview)
 - [ ] [React Context](https://reactjs.org/docs/context.html)
+- [ ] useState
 - [ ] UI library ( bootstrap )
 - [ ] xhr / axios / fetch / ajax
 - [ ] JQuery
@@ -50,7 +51,14 @@ Back To Tech Study Topics
 ### Testing
 - [ ] Playwright
 
+### Infrastructure
+- [ ] _
+
 ## Done
+
+### Infrastructure
+- [x] [Hello GIT](https://github.com/BackToTech-Study/HelloGIT)
+
 ### Languages, Frameworks and libraries
 - [x] [React demo project](https://github.com/BackToTech-Study/React-weather-demo)
 
