@@ -55,4 +55,4 @@ Back To Tech Study Topics
 - [x] [Deploy a database in docker](https://github.com/BackToTech-Study/DeployDatabaseInDocker)
 
 ### Testing
-- [x] [Cypress] https://github.com/BackToTech-Study/HelloCypress
+- [x] [Cypress](https://github.com/BackToTech-Study/HelloCypress)
