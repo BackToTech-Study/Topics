@@ -28,6 +28,7 @@ Back To Tech Study Topics
 - [ ] Unity project
 - [ ] WebAssembly - Blazor(or others) 
 - [ ] Intro to Python
+- [ ] [SASS](https://sass-lang.com/guide) (CSS with super powers :D)
 
 ### Cloud
 - [ ] Build and launch to Docker
@@ -38,7 +39,7 @@ Back To Tech Study Topics
 - [ ] Study React Hooks / Custom Hooks
 - [ ] Message broker as a service
 - [ ] Google cloud VPN
-- [ ] Running pihole in the cloud
+- [ ] Running [pihole (Network-wide Ad Blocker)](https://pi-hole.net/) in the cloud
 
 
 ### Security
