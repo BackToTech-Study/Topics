@@ -8,45 +8,40 @@ Back To Tech Study Topics
 - [ ] Decorator pattern
 - [ ] Singleton patterns
 - [ ] Observer pattern
+- [ ] Factory pattern
+- [ ] Adapter pattern
 - [ ] MVC pattern
-- [ ] MVC pattern
-- [ ] Observer pattern
 - [ ] Functional programming concepts
 
 ### Languages, Frameworks and libraries
 - [ ] Angular demo project
 - [ ] RxJS
 - [ ] Map / Reduce
-- [ ] JS functional programming
 - [ ] Redux
 - [ ] [SWR](https://swr.vercel.app/)
 - [ ] [React Query](https://react-query.tanstack.com/overview)
-- [ ] [React Context](https://reactjs.org/docs/context.html)
-- [ ] useState
-- [ ] UI library ( bootstrap )
+- [ ] UI libraries
 - [ ] xhr / axios / fetch / ajax
 - [ ] JQuery
 - [ ] REST API in .net CORE
+- [ ] REST API - (Python) FAST API
 - [ ] Unity project
 - [ ] WebAssembly - Blazor(or others) 
 - [ ] Intro to Python
-- [ ] REST API - (Python) FAST API
-- [ ] Python Functional Programming
 
 ### Cloud
 - [ ] Build and launch to Docker
 - [ ] AWS cloud (cloud practitioner guide)
-- [ ] Azure cloud (cloud practitioner guide)
-- [ ] Google cloud (cloud practitioner guide)
+- [ ] Azure cloud
+- [ ] Google cloud
 - [ ] Digital Ocean cloud
 - [ ] Study React Hooks / Custom Hooks
-- [ ] Azure cloud
 - [ ] Message broker as a service
 
 
 ### Security
 - [ ] Authentication with Microsoft AD
-- [ ] OAUTH in React
+- [ ] OAUTH
 
 ### Testing
 - [ ] Playwright
@@ -61,6 +56,8 @@ Back To Tech Study Topics
 
 ### Languages, Frameworks and libraries
 - [x] [React demo project](https://github.com/BackToTech-Study/React-weather-demo)
+- [x] [React Context](https://github.com/BackToTech-Study/ReactStates)
+- [x] [useState](https://github.com/BackToTech-Study/ReactStates)
 
 ### Cloud
 - [x] [Deploy a database in docker](https://github.com/BackToTech-Study/DeployDatabaseInDocker)
