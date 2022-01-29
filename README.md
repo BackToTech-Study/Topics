@@ -37,6 +37,8 @@ Back To Tech Study Topics
 - [ ] Digital Ocean cloud
 - [ ] Study React Hooks / Custom Hooks
 - [ ] Message broker as a service
+- [ ] Google cloud VPN
+- [ ] Running pihole in the cloud
 
 
 ### Security
