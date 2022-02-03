@@ -12,6 +12,7 @@ Back To Tech Study Topics
 - [ ] Adapter pattern
 - [ ] MVC pattern
 - [ ] Functional programming concepts
+- [ ] SOLID principles
 
 ### Languages, Frameworks and libraries
 - [ ] Angular demo project
@@ -27,8 +28,9 @@ Back To Tech Study Topics
 - [ ] REST API - (Python) FAST API
 - [ ] Unity project
 - [ ] WebAssembly - Blazor(or others) 
-- [ ] Intro to Python
+- [ ] Python
 - [ ] [SASS](https://sass-lang.com/guide) (CSS with super powers :D)
+- [ ] Blender
 
 ### Cloud
 - [ ] Build and launch to Docker
@@ -41,13 +43,17 @@ Back To Tech Study Topics
 - [ ] Google cloud VPN
 - [ ] Running [pihole (Network-wide Ad Blocker)](https://pi-hole.net/) in the cloud
 
-
 ### Security
 - [ ] Authentication with Microsoft AD
 - [ ] OAUTH
 
 ### Testing
 - [ ] Playwright
+- [ ] Cucumber
+- [ ] BDD
+- [ ] Unit testing in C#
+- [ ] Unit testing in React
+- [ ] Unit testing in Python
 
 ### Infrastructure
 - [ ] _
