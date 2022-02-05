@@ -31,6 +31,8 @@ Back To Tech Study Topics
 - [ ] Python
 - [ ] [SASS](https://sass-lang.com/guide) (CSS with super powers :D)
 - [ ] Blender
+- [ ] [React native](https://reactnative.dev/)
+- [ ] [https://flutter.dev/](https://flutter.dev/)
 
 ### Cloud
 - [ ] Build and launch to Docker
@@ -42,6 +44,7 @@ Back To Tech Study Topics
 - [ ] Message broker as a service
 - [ ] Google cloud VPN
 - [ ] Running [pihole (Network-wide Ad Blocker)](https://pi-hole.net/) in the cloud
+- [ ] [https://firebase.google.com/](https://firebase.google.com/)
 
 ### Security
 - [ ] Authentication with Microsoft AD
