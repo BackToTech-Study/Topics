@@ -59,7 +59,7 @@ Back To Tech Study Topics
 - [ ] Unit testing in Python
 
 ### Infrastructure
-- [ ] _
+- [ ] Continous Integration / Continous Testing (CI/CT) (Jenins / Travis / AzureDevOps / GitHub Actions)
 
 ## Done
 
