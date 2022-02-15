@@ -19,7 +19,6 @@ Back To Tech Study Topics
 - [ ] RxJS
 - [ ] Map / Reduce
 - [ ] Redux
-- [ ] [SWR](https://swr.vercel.app/)
 - [ ] [React Query](https://react-query.tanstack.com/overview)
 - [ ] UI libraries
 - [ ] xhr / axios / fetch / ajax
@@ -33,8 +32,13 @@ Back To Tech Study Topics
 - [ ] Blender
 - [ ] [React native](https://reactnative.dev/)
 - [ ] [https://flutter.dev/](https://flutter.dev/)
+- [ ] Serial communication on Arduino implemented in C
 
 ### Cloud
+- [ ] Deploy docker image in AWS cloud
+- [ ] AWS S3 bucket
+- [ ] Deploy docker REST API in AWS Fargate
+- [ ] Deploy docker REST API in EC2
 - [ ] Build and launch to Docker
 - [ ] AWS cloud (cloud practitioner guide)
 - [ ] Azure cloud
@@ -70,6 +74,7 @@ Back To Tech Study Topics
 - [x] [React demo project](https://github.com/BackToTech-Study/React-weather-demo)
 - [x] [React Context](https://github.com/BackToTech-Study/ReactStates)
 - [x] [useState](https://github.com/BackToTech-Study/ReactStates)
+- [x] [SWR](https://swr.vercel.app/)
 
 ### Cloud
 - [x] [Deploy a database in docker](https://github.com/BackToTech-Study/DeployDatabaseInDocker)
