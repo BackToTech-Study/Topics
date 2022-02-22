@@ -35,7 +35,6 @@ Back To Tech Study Topics
 - [ ] Serial communication on Arduino implemented in C
 
 ### Cloud
-- [ ] Deploy docker image in AWS cloud
 - [ ] AWS S3 bucket
 - [ ] Deploy docker REST API in AWS Fargate
 - [ ] Deploy docker REST API in EC2
@@ -78,6 +77,7 @@ Back To Tech Study Topics
 
 ### Cloud
 - [x] [Deploy a database in docker](https://github.com/BackToTech-Study/DeployDatabaseInDocker)
+- [x] [Deploy docker image in AWS AppRunner](https://github.com/BackToTech-Study/DeployToAwsAppRunner)
 
 ### Testing
 - [x] [Cypress](https://github.com/BackToTech-Study/HelloCypress)
