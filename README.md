@@ -13,6 +13,7 @@ Back To Tech Study Topics
 - [ ] MVC pattern
 - [ ] Functional programming concepts
 - [ ] SOLID principles
+- [ ] Command Pattern
 
 ### Languages, Frameworks and libraries
 - [ ] Angular demo project
@@ -63,6 +64,7 @@ Back To Tech Study Topics
 
 ### Infrastructure
 - [ ] Continous Integration / Continous Testing (CI/CT) (Jenins / Travis / AzureDevOps / GitHub Actions)
+- [ ] NoSQL databases (MongoDB / DynamoDB / Cosmos DB / Firestore)
 
 ## Done
 
