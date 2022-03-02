@@ -33,7 +33,6 @@ Back To Tech Study Topics
 - [ ] Blender
 - [ ] [React native](https://reactnative.dev/)
 - [ ] [https://flutter.dev/](https://flutter.dev/)
-- [ ] Serial communication on Arduino implemented in C
 
 ### Cloud
 - [ ] AWS S3 bucket
@@ -76,6 +75,7 @@ Back To Tech Study Topics
 - [x] [React Context](https://github.com/BackToTech-Study/ReactStates)
 - [x] [useState](https://github.com/BackToTech-Study/ReactStates)
 - [x] [SWR](https://swr.vercel.app/)
+- [x] [Serial communication on Arduino implemented in C](https://github.com/BackToTech-Study/ArduinoReadWriteSerial)
 
 ### Cloud
 - [x] [Deploy a database in docker](https://github.com/BackToTech-Study/DeployDatabaseInDocker)
