@@ -62,13 +62,13 @@ Back To Tech Study Topics
 - [ ] Unit testing in Python
 
 ### Infrastructure
-- [ ] Continous Integration / Continous Testing (CI/CT) (Jenins / Travis / AzureDevOps / GitHub Actions)
 - [ ] NoSQL databases (MongoDB / DynamoDB / Cosmos DB / Firestore)
 
 ## Done
 
 ### Infrastructure
 - [x] [Hello GIT](https://github.com/BackToTech-Study/HelloGIT)
+- [x] Continous Integration / Continous Testing (CI/CT) (Jenins / Travis / AzureDevOps / [GitHub Actions](https://github.com/BackToTech-Study/GithubActionsForReactApp)
 
 ### Languages, Frameworks and libraries
 - [x] [React demo project](https://github.com/BackToTech-Study/React-weather-demo)
